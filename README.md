@@ -58,6 +58,4 @@ The following tools are entirely optional (and not included or configured in the
 ## Writing your Client-Side App
 The entry point to the application is `client/index.html`, and can be accessed from `http://localhost:3000`. You can add any files/directories you need in the `client` directory, using the folder structure of your preference. All static assets in `client` are served by the same server that is started when you run the API.
 
-## The workflow for submission:
-1. Create a branch, using a branch name you feel is appropriate.
-2. Once you're satisfied with your solution, create a pull request against _master_
+
