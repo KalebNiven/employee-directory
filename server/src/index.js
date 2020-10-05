@@ -5,7 +5,7 @@ import inert from 'inert';
 
 const server = new Server();
 server.connection({
-    port: 3000,
+    port: 5000,
     routes: {
         cors: true
     }

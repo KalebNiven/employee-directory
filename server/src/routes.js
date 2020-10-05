@@ -4,7 +4,7 @@ import * as db from './db';
 const model = {
     employee: {
         fullName: joi.string(),
-        DOB: joi.string(),
+        DOB: joi.date(),
         role: joi.string()
     },
     id: {

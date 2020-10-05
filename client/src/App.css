@@ -1,0 +1,33 @@
+.jumbotron {
+  padding: 0 !important;
+
+}
+
+.jumbo-heading {
+  background-color: #023e8a;
+  color: white;
+  padding: 50px 25px;
+  font-weight: 700;
+}
+
+.jumbo-body {
+  padding: 20px;
+}
+
+.action-btn {
+  width: 40px !important;
+  height: 40px !important;
+  padding: 0 !important;
+  border-radius: 50% !important;
+}
+
+th {
+  font-weight: 700 !important;
+  font-size: 1.25rem !important;
+}
+
+td {
+  font-weight: 500 !important;
+  font-size: 1.125rem !important;
+  vertical-align: middle !important;
+}
